@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abhin/fraud-detection-mlops/mlruns/391480090387685532/9e5e5f93e93944b090bb3dbeca1f7791/artifacts
+end_time: 1775578914402
+entry_point_name: ''
+experiment_id: '391480090387685532'
+lifecycle_stage: active
+run_id: 9e5e5f93e93944b090bb3dbeca1f7791
+run_name: XGBoost with SMOTE
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775578914329
+status: 3
+tags: []
+user_id: abhin

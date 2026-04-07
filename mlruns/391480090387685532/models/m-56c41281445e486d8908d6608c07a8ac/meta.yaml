@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/abhin/fraud-detection-mlops/mlruns/391480090387685532/models/m-56c41281445e486d8908d6608c07a8ac/artifacts
+creation_timestamp: 1775559106392
+experiment_id: '391480090387685532'
+last_updated_timestamp: 1775559110137
+model_id: m-56c41281445e486d8908d6608c07a8ac
+model_type: null
+name: model
+source_run_id: 902d1a9c5c574ad4b9db634175f0e27d
+status: 2
+status_message: null
